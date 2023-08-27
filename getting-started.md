@@ -4,6 +4,8 @@ layout: home
 nav_order: 2
 ---
 
+# Getting Started
+
 ## Creating your first road
 A road is basically bundled locations (points) with optionally a name. To create your first road, run the command `/createroad` with the name of your road (leave blank for no name), and the coordinates of the locations in your road. It should look something like this:
 - With name: `/createroad CoolRoad 0 69 0 10 69 0 10 69 10`

@@ -48,3 +48,11 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 color_scheme: dark
 plugins:
   - jekyll-github-metadata
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
