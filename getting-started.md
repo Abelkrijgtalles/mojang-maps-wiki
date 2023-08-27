@@ -9,4 +9,23 @@ A road is basically bundled locations (points) with optionally a name. To create
 - With name: `/createroad CoolRoad 0 69 0 10 69 0 10 69 10`
 - Without name: `/createroad 0 69 0 10 69 0 10 69 10`
 
+The following road will look like this:
+![](../assets/images/CoolRoad.png)
 At this moment (version 1.4) there is no way to have spaces in your road name as this messes with the Minecraft argument system. Mojang Maps will also automatically generate locations between locations with a gap larger than 5 blocks.
+
+## Changing the language
+To change the language you'll have to have run Mojang Maps for at least one time. After that open `plugins/MojangMaps/config.yml`. In `config.yml` you'll see something like this:
+````yaml
+# If you change this to custom, you can change the messages in messages.yml. Codes that can be used as language: https://github.com/Abelkrijgtalles/mojang-maps-data/blob/main/README.md#the-following-codes-can-be-used-as-language
+language: en
+````
+To find your languages language code/to see the available languages, click [this link]. [This link] will also be found in `config.yml`.
+
+For example, if we would like to change the language to Dutch, we would have to change `language` to `nl`:
+````yaml
+# If you change this to custom, you can change the messages in messages.yml. Codes that can be used as language: https://github.com/Abelkrijgtalles/mojang-maps-data/blob/main/README.md#the-following-codes-can-be-used-as-language
+language: nl
+````
+
+[this link]: https://github.com/Abelkrijgtalles/mojang-maps-data/blob/main/README.md#the-following-codes-can-be-used-as-language
+[This link]: https://github.com/Abelkrijgtalles/mojang-maps-data/blob/main/README.md#the-following-codes-can-be-used-as-language
