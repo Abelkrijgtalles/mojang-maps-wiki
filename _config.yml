@@ -1,7 +1,7 @@
 title: Mojang Maps
 description: A Google Maps like navigation system for Minecraft.
 theme: just-the-docs
-
+repository: Abelkrijgtalles/mojang-maps-wiki
 url: https://mojangmaps.abelkrijgtalles.nl
 
 aux_links:
@@ -46,3 +46,5 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+plugins:
+  - jekyll-github-metadata
