@@ -35,7 +35,7 @@ Please see [Changing the language - Getting Started].
 
 If your server doesn't have access to the internet/GitHub.com, you'll have to download the translations file manually from `github.com/Abelkrijgtalles/mojang-maps-data/blob/main/[language code]/[language code].json`, and the raw file from here: `raw.githubusercontent.com/Abelkrijgtalles/mojang-maps-data/main/[language code]/[language code].json`. After this, place the file in `plugins/MojangMaps/` with the name `messages.json`.
 
-You don't have to set `language` in `config.yml` to your language code, but it's highly recommended. To use custom messages please see [Using custom messages/text].
+You don't have to set `language` in `config.yml` to your language code, but it's highly recommended. To use custom messages please see [Using custom messages/text](#using-custom-messagestexts).
 
 ## Using custom messages/texts
 > The `%s` symbol in `messages.json` is a value. Always leave this in your edited messages or the values won't display.
@@ -75,7 +75,6 @@ Then go into `messages.json` and change (some of) the messages (a reload could b
 ````
 For example, I've changed message 2 and 4 in this version of `messages.json`
 
-If you want the rest of the messages in a different language then English and don't want to translate yourself, set `language` to your language code (list of language codes can be found [here]), reload the server, and follow the steps of [Using custom messages/text].
+If you want the rest of the messages in a different language then English and don't want to translate yourself, set `language` to your language code (list of language codes can be found [here]), reload the server, and follow the steps of [Using custom messages/text](#using-custom-messagestexts).
 
 [here]: https://github.com/Abelkrijgtalles/mojang-maps-data/blob/main/README.md#the-following-codes-can-be-used-as-language
-[Using custom messages/text]: #using-custom-messagetexts

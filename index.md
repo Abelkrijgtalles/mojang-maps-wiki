@@ -13,6 +13,8 @@ _A Google Maps like navigation system for Minecraft._
 
 To run Mojang Maps, you´ll need to (have) set up a [SpigotMC] or [PaperMC] Minecraft server. After that download [the latest Mojang Maps release] and place it in your `plugins` folder. To set up a road system and configure Mojang Maps, please see [the getting started page].
 
+If your server has no access to the internet/GitHub.com, please see [Using/Setting up Mojang Maps on a server without access to the internet. - Advanced/Custom].
+
 ---
 Mojang Maps is made by the following people:
 <ul class="list-style-none">
@@ -27,3 +29,4 @@ Mojang Maps is made by the following people:
 [PaperMC]: https://papermc.io/
 [the latest Mojang Maps release]: https://github.com/Abelkrijgtalles/mojang-maps/releases/latest/
 [the getting started page]: {% link getting-started.md %}
+[Using/Setting up Mojang Maps on a server without access to the internet. - Advanced/Custom]: advanced/config.html#usingsetting-up-mojang-maps-on-a-server-without-access-to-the-internet
