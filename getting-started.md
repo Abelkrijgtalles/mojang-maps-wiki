@@ -26,6 +26,11 @@ For example, if we would like to change the language to Dutch, we would have to 
 # If you change this to custom, you can change the messages in messages.yml. Codes that can be used as language: https://github.com/Abelkrijgtalles/mojang-maps-data/blob/main/README.md#the-following-codes-can-be-used-as-language
 language: nl
 ````
+If (some) text is English even tho you've changed the language, please consider [helping with translations].
+
+## Finally, start using Mojang Maps
+Now that the setup is finished, you could add more road by using `/createroad`. To go to a location, just use `/goto` or `/navigation` if your Mojang Maps version is 1.5 or higher.
 
 [this link]: https://github.com/Abelkrijgtalles/mojang-maps-data/blob/main/README.md#the-following-codes-can-be-used-as-language
 [This link]: https://github.com/Abelkrijgtalles/mojang-maps-data/blob/main/README.md#the-following-codes-can-be-used-as-language
+[helping with translations]: https://crowdin.com/project/mojang-maps
