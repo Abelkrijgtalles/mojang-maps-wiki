@@ -23,7 +23,7 @@ Mojang Maps is a Google Maps like navigation system for Minecraft.
 
 I started Mojang Maps as a weird idea that had a high change I wouldn't make it. I heard about things like [Dijkstra's Algorithm]. It was just this weird idea that was stuck in my head. At the time I had done here and there some [Spigot]/Bukkit work, but never really worked on a project.
 
-It started with me just finding a way to store locations and implementing [Dijkstra's Algorithm] with [this video] ([commit febb798]). After that I started adding roads and asked [ChatGPTS] how to turn a list of directions to one direction to one point ([version 1.0]). Added a language system and showed on which road you were ([version 1.1] and [version 1.3]).
+It started with me just finding a way to store locations and implementing [Dijkstra's Algorithm] with [this video] ([commit febb798]). After that I started adding roads and asked [ChatGPT] how to turn a list of directions to one direction to one point ([version 1.0]). Added a language system and showed on which road you were ([version 1.1] and [version 1.3]).
 
 I'm currently working on a GUI, to make Mojang Maps more accessible.
 
