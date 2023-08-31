@@ -28,7 +28,7 @@ I started Mojang Maps as a weird idea that had a high change I wouldn't make it.
 
 It started with me just finding a way to store locations and implementing [Dijkstra's Algorithm] with [this video] ([commit febb798]). After that I started adding roads and asked [ChatGPT] how to turn a list of directions to one direction to one point ([version 1.0]). Added a language system and showed on which road you were ([version 1.1] and [version 1.3]).
 
-I'm currently working on a GUI, to make Mojang Maps more accessible.
+I just realised [version 1.5] which added a GUI, to make Mojang Maps more accessible.
 
 For future projects please see [the roadmap].
 
@@ -65,5 +65,6 @@ Mojang Maps is made by the following people:
 [version 1.0]: https://github.com/Abelkrijgtalles/mojang-maps/tree/1.0
 [version 1.1]: https://github.com/Abelkrijgtalles/mojang-maps/tree/v1.1
 [version 1.3]: https://github.com/Abelkrijgtalles/mojang-maps/tree/1.3
+[version 1.5]: https://github.com/Abelkrijgtalles/mojang-maps/tree/1.5
 [the roadmap]: {% link roadmap.md %}
 [translating]: https://crowdin.com/project/mojang-maps
