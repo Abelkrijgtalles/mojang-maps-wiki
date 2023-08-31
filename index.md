@@ -7,6 +7,9 @@ description: Mojang Maps is a Google Maps like navigation system for Minecraft.
 
 # Mojang Maps
 
+> This wiki is currently in beta.
+{: .warning}
+
 _A Google Maps like navigation system for Minecraft._
 
 ## Run Mojang Maps
