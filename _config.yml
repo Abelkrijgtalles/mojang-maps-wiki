@@ -3,7 +3,9 @@ description: A Google Maps like navigation system for Minecraft.
 theme: just-the-docs
 repository: Abelkrijgtalles/mojang-maps
 url: https://mojangmaps.abelkrijgtalles.nl
+
 logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
 
 aux_links:
   GitHub: https://github.com/Abelkrijgtalles/mojang-maps
