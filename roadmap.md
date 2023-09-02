@@ -13,6 +13,18 @@ This probably never going to happen or in like ten years. This is extremely hard
 ## Add PlaceholderAPI placeholders
 Recommended by [McFAQ], I will add PlaceholderAPI support. He hasn't replied to my message tho, so I'm not 100% certain if he means placeholders, but I don't know what other thing he would mean with "Add PlaceholderAPI support".
 
+## Rewriting Dijkstra's algorithm
+Rewriting Dijkstra's algorithm to give more insight + having more options (see [Multiple types of roads](#multiple-types-of-roads) and [Multi-dimensional navigation support](#multi-dimensional-navigation-support)). This could also improve performance (see [Improving perfomance with rust](#improving-performance-with-rust).
+
+## Multiple types of roads
+Be able to have navigation that could also go on water, or travel with a horse. See [Multi-dimensional navigation support](#multi-dimensional-navigation-support).
+
+## Multi-dimensional navigation support
+Go into the nether to go faster instead of going on land.
+
+## Improving performance with Rust
+Automatically download a Rust binary depending on the OS. If no OS-specific binary could be found, default back to Java.
+
 ---
 
 ## Finished roadmaps/projects/features/I don't know the/a word that describes this.
