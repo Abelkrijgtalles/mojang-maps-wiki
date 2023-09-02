@@ -14,6 +14,7 @@ aux_links:
 # Supports true (default) or false
 search_enabled: true
 
+# prevent you from burning your eyes
 color_scheme: dark
 
 search:
