@@ -5,7 +5,11 @@ nav_order: 5
 ---
 
 # Roadmap
-A list a future projects/features:
+
+> Some of these features are totally unrealistic.
+{: .warning}
+
+A list of future features:
 
 ## Implementing a web UI
 This probably never going to happen or in like ten years. This is extremely hard to do. One approach would be to use (or have it based on) something like [BlueMap]. I've already talked to the creator of [BlueMap]. It's just really hard to change some [BlueMap] source code without even knowing any [Vue].
@@ -27,7 +31,7 @@ Automatically download a Rust binary depending on the OS. If no OS-specific bina
 
 ---
 
-## Finished roadmaps/projects/features/I don't know the/a word that describes this.
+## Finished features.
 
 In order from finished first to finished last.
 
