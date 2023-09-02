@@ -12,6 +12,9 @@ description: Mojang Maps is a Google Maps like navigation system for Minecraft.
 
 _A Google Maps like navigation system for Minecraft._
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=W79VLY89H4XRY)
+[![Crowdin](https://badges.crowdin.net/mojang-maps/localized.svg?style=for-the-badge&logo=paypal)](https://crowdin.com/project/mojang-maps)
+
 ## Run Mojang Maps
 
 To run Mojang Maps, you´ll need to (have) set up a [SpigotMC] or [PaperMC] Minecraft server. After that download [the latest Mojang Maps release] and place it in your `plugins` folder. To set up a road system and configure Mojang Maps, please see [the getting started page].
