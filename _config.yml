@@ -14,6 +14,8 @@ aux_links:
 # Supports true (default) or false
 search_enabled: true
 
+color_scheme: dark
+
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
