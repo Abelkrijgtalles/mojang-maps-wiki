@@ -59,7 +59,7 @@ Mojang Maps is made by the following people:
 [PaperMC]: https://papermc.io/
 [the latest Mojang Maps release]: https://github.com/Abelkrijgtalles/mojang-maps/releases/latest/
 [the getting started page]: {% link getting-started.md %}
-[Using/Setting up Mojang Maps on a server without access to the internet. - Advanced/Custom]: advanced/config.html#usingsetting-up-mojang-maps-on-a-server-without-access-to-the-internet
+[Using/Setting up Mojang Maps on a server without access to the internet. - Advanced/Config]: advanced/config.html#usingsetting-up-mojang-maps-on-a-server-without-access-to-the-internet
 [Dijkstra's Algorithm]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 [Spigot]: https://www.spigotmc.org/
 [this video]: https://youtube.be/BuvKtCh0SKk
