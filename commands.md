@@ -14,7 +14,7 @@ This is a list of all the commands in Mojang Maps
 |---------------------|-------------------|---------------------|--------------------------------|----------------------|
 | `/registerlocation` | `/createlocation` | `/registerlocation` | `mojangmaps.register.location` | Register a location. |
 
-This registers an individual location at the players location. A location is a point that you can use to travel from a to b. Basically a point of a road.
+This registers an individual location at the player's location. A location is a point that you can use to travel from a to b. Basically a point of a road.
 
 ## /registerroad
 
