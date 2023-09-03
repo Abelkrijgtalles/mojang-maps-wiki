@@ -46,7 +46,7 @@ Reason I haven't changed it: I haven't yet gotten a cease and desist letter from
 You can donate with PayPal, or just help by [translating] or writing code.
 
 ---
-Mojang Maps is made by the following people:
+Mojang Maps is made by possible the following people:
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
