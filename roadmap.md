@@ -42,5 +42,5 @@ In order from finished first to finished last.
 [BlueMap]: https://bluemap.bluecolored.de/
 [Vue]: https://vuejs.org/
 [McFAQ]: https://www.spigotmc.org/members/mcfaq.181238/
-[1.1]: https://github.com/Abelkrijgtalles/mojang-maps/releases/tag/v1.0
+[1.0]: https://github.com/Abelkrijgtalles/mojang-maps/releases/tag/v1.0
 [1.5]: https://github.com/Abelkrijgtalles/mojang-maps/releases/tag/v1.5
