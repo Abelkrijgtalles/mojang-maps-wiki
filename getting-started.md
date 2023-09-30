@@ -13,7 +13,7 @@ A road is basically bundled locations (points) with optionally a name. To create
 
 The following road will look like this:
 ![](../assets/images/CoolRoad.png)
-At this moment (version 1.4) there is no way to have spaces in your road name as this messes with the Minecraft argument system. Mojang Maps will also automatically generate locations between locations with a gap larger than 5 blocks.
+At this moment (version 1.5) there is no way to have spaces in your road name as this messes with the Minecraft argument system. Mojang Maps will also automatically generate locations between locations with a gap larger than 5 blocks.
 
 ## Changing the language
 To change the language you'll have to have run Mojang Maps for at least one time. After that open `plugins/MojangMaps/config.yml`. In `config.yml` you'll see something like this:
